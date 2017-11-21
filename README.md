@@ -14,23 +14,23 @@ Estes exercícios serão resolvidos principalmente com a linguagem C++, podendo 
 
 # Problemas
 
-## [Iniciante](/tree/master/01%20-%20Iniciante)
+## [Iniciante](../../tree/master/01%20-%20Iniciante)
 
 * 1099 - Soma de Ímpares Consecutivos `C++`
 * 1101 - Sequência de Números e Soma `C++`
 
 
-## Ad-Hoc
+## [Ad-Hoc](../../tree/master/02%20-%20Ad-Hoc)
 
 * 1087 - Dama `C++`
 * 1103 - Alarme Despertador `C++`
 * 1129 - Leitura Ótica `C++`
 
-## Strings
+## [Strings](../../tree/master/03%20-%20Strings)
 
 * 1168 - LED `C++`
 * 1253 - Cifra de César `C++`
 
-## Estruturas
+## [Estruturas](../../tree/master/04%20-%20Estruturas)
 
 * 2496 - A Única Chance `C++`
