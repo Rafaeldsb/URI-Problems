@@ -14,7 +14,7 @@ Estes exercícios serão resolvidos principalmente com a linguagem C++, podendo 
 
 # Problemas
 
-## [Iniciante]("/tree/master/01 - Iniciante")
+## [Iniciante](/tree/master/01%20-%20Iniciante)
 
 * 1099 - Soma de Ímpares Consecutivos `C++`
 * 1101 - Sequência de Números e Soma `C++`
