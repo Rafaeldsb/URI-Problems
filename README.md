@@ -16,21 +16,21 @@ Estes exercícios serão resolvidos principalmente com a linguagem C++, podendo 
 
 ## Iniciante
 
-* 1099 - Soma de Ímpares Consecutivos <small>(C++)</small>
-* 1101 - Sequência de Números e Soma
+* 1099 - Soma de Ímpares Consecutivos `C++`
+* 1101 - Sequência de Números e Soma `C++`
 
 
 ## Ad-Hoc
 
-* 1087 - Dama
-* 1103 - Alarme Despertador
-* 1129 - Leitura Ótica
+* 1087 - Dama `C++`
+* 1103 - Alarme Despertador `C++`
+* 1129 - Leitura Ótica `C++`
 
 ## Strings
 
-* 1168 - LED
-* 1253 - Cifra de César
+* 1168 - LED `C++`
+* 1253 - Cifra de César `C++`
 
 ## Estruturas
 
-* 2496 - A Única Chance
+* 2496 - A Única Chance `C++`
