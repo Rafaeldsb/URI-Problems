@@ -5,6 +5,7 @@ Resoluções de Problemas da Plataforma do URI Online Judge
 Os problemas estão separados em pastas por categorias de acordo com o URI.
 
 * Iniciante
+* Ad-Hoc
 
 # Problemas
 
