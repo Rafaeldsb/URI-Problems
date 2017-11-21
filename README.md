@@ -18,4 +18,5 @@ Os problemas estão separados em pastas por categorias de acordo com o URI.
 
 * 1087 - Dama
 * 1103 - Alarme Despertador
+* 1129 - Leitura Ótica
 
