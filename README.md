@@ -1,7 +1,7 @@
 # URI-Problems
 Resoluções de Problemas da Plataforma do URI Online Judge
 
-#About
+# About
 Os problemas estão separados em pastas por categorias de acordo com o URI.
 
 * Iniciante
