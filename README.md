@@ -6,6 +6,7 @@ Os problemas estão separados em pastas por categorias de acordo com o URI.
 
 * Iniciante
 * Ad-Hoc
+* Strings
 
 # Problemas
 
@@ -21,3 +22,6 @@ Os problemas estão separados em pastas por categorias de acordo com o URI.
 * 1103 - Alarme Despertador
 * 1129 - Leitura Ótica
 
+## Strings
+
+* 1168 - LED
