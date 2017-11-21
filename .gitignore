@@ -1,3 +1,6 @@
+# Editor
+.vscode/
+
 # Compilados em C/C++
 *.out
 *.exe
