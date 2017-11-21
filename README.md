@@ -5,7 +5,6 @@ Resoluções de Problemas da Plataforma do URI Online Judge
 Os problemas estão separados em pastas por categorias de acordo com o URI.
 
 * Iniciante
-* Ad-Hoc
 
 # Problemas
 
@@ -14,6 +13,10 @@ Os problemas estão separados em pastas por categorias de acordo com o URI.
 * 1099 - Soma de Ímpares Consecutivos
 * 1101 - Sequência de Números e Soma
 
+<<<<<<< HEAD
 ## Ad-Hoc
 
+* 1087 - Dama
 * 1103 - Alarme Despertador
+=======
+>>>>>>> parent of 91f8147... Adiciona exercícios
